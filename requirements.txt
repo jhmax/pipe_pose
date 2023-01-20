@@ -1,0 +1,5 @@
+opencv-python==4.7.0.68
+av==9.2.0
+mediapipe== 0.9.0.1
+streamlit-webrtc==0.44.2
+
